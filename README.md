@@ -40,6 +40,9 @@ Key emotions detected:
 ### 1. **Dataset Preparation**
 Datasets such as FER-2013 and CK+ were used for training. Images were preprocessed (grayscale, resizing, normalization) for consistent model input.  
 *(Dataset sources listed in proposal :contentReference[oaicite:2]{index=2})*
+# Emotion_Detection_CNN
+
+Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
 ### 2. **Model Development**
 A Convolutional Neural Network (CNN) was designed using:
